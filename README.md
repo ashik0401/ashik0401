@@ -11,10 +11,8 @@
 
 - 🔭 I’m currently working on **MERN stack applications** with modern UI/UX
 - 🌱 I love working with **Tailwind CSS**, **DaisyUI**, and building **responsive dashboards**
-- 👨‍💻 All of my projects are available at [**My Portfolio**](https://your-portfolio-link.com)
-- 📫 Reach me at: **your.email@example.com**
-- 💬 Ask me about anything related to:  
-  `React`, `Node.js`, `MongoDB`, `Express.js`, `Tailwind CSS`, `REST APIs`
+- 📫 Reach me at: ashik04am@gmail.com
+
 
 ---
 
