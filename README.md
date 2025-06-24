@@ -18,7 +18,6 @@ I'm a passionate full stack web developer focused on building clean and scalable
 - Building full-stack apps with smooth UX and solid backend logic  
 - Experimenting with advanced web features and performance strategies  
 - Publishing reusable UI components for modern design systems
- 
 
 ---
 
@@ -26,6 +25,17 @@ I'm a passionate full stack web developer focused on building clean and scalable
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,github,vscode,figma" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Query-%23FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" />
+  <img src="https://img.shields.io/badge/SweetAlert2-FF5E5E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hot%20Toast-FFC107?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Motion-61DAFB?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Tooltip-333333?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Icons-764ABC?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 ---
@@ -52,9 +62,7 @@ I'm a passionate full stack web developer focused on building clean and scalable
 <p align="">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ashikmahmud&show_icons=true&theme=tokyonight" />
   <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikmahmud&theme=tokyonight" />
-</p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikmahmud&theme=tokyonight" />
+  </p>
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikmahmud&layout=compact&theme=tokyonight&exclude_repo=old-repo1,old-repo2" />
 </p>
-
-
