@@ -15,9 +15,10 @@ I'm a passionate full stack web developer focused on building clean and scalable
 
 ### 🚀 Currently Working On
 
-- Building a tourism website using React, Node.js, and MongoDB  
-- Exploring Next.js and server-side rendering  
-- Creating and publishing Tailwind CSS components on GitHub  
+- Building full-stack apps with smooth UX and solid backend logic  
+- Experimenting with advanced web features and performance strategies  
+- Publishing reusable UI components for modern design systems
+ 
 
 ---
 
