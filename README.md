@@ -48,7 +48,7 @@ I'm a passionate full stack web developer focused on building clean and scalable
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ashikmahmud&show_icons=true&theme=tokyonight" />
   <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikmahmud&theme=tokyonight" />
