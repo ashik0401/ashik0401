@@ -28,7 +28,8 @@
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ashikmahmud&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikmahmud&layout=compact&theme=tokyonight" />
+ <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikmahmud&layout=compact&theme=tokyonight&exclude_repo=old-python-project,notebook-test" />
+
 </p>
 
 ---
