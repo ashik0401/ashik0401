@@ -61,12 +61,6 @@ I'm a passionate full stack web developer focused on building clean and scalable
   </a>
 </p>
 
-<p align="center">
-  📧 ashik04am@gmail.com <br />
-  📍 Sherpur, Bogura , Bangladesh
-</p>
-
-
 ---
 
 ### 📊 GitHub Stats
