@@ -25,7 +25,7 @@ I'm a passionate full stack web developer focused on building clean and scalable
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,nodejs,express,mongodb,tailwind,github,vscode" />
 </p>
 
 <p align="center">
