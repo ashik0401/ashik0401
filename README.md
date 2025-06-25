@@ -75,6 +75,7 @@ I'm a passionate full stack web developer focused on building clean and scalable
 
 </p>
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashik0401&layout=compact&theme=tokyonight&exclude_repo=portfolio,landing-page" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashik0401&layout=compact&theme=tokyonight&exclude_repo=portfolio,landing-page,b11-react-basic,b10-html-template" />
+
 
 </p>
