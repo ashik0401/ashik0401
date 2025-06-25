@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/DzCKZqJv/Black-Modern-Personal-Linked-In-Banner.png" />
+  <img src="https://i.ibb.co/LhXvJZwc/Black-Modern-Personal-Linked-In-Banner-1.png" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Ashik Mahmud</h1>
