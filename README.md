@@ -50,9 +50,10 @@ I'm a passionate full stack web developer focused on building clean and scalable
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:ashik04am@gmail.com?subject=Hello%20Ashik&body=I%20visited%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out.">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <a href="mailto:ashik04am@gmail.com?subject=Hello%20Ashik&body=Hi%20Ashik,%0D%0AI%20just%20checked%20your%20GitHub%20profile.%20Great%20work!">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
   <a href="https://www.linkedin.com/in/yourlinkedin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
