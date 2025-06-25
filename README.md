@@ -24,7 +24,7 @@ I'm a passionate full stack web developer focused on building clean and scalable
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,github,vscode" />
 </p>
 
 <p align="center">
@@ -36,6 +36,10 @@ I'm a passionate full stack web developer focused on building clean and scalable
   <img src="https://img.shields.io/badge/React_Motion-61DAFB?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Tooltip-333333?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Icons-764ABC?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LottieFiles-1AB7EA?style=for-the-badge&logo=lottie&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroicons-0EA5E9?style=for-the-badge&logo=heroicons&logoColor=white" />
 </p>
 
 ---
