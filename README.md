@@ -65,8 +65,9 @@ I'm a passionate full stack web developer focused on building clean and scalable
 
 <p align="">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ashikmahmud&show_icons=true&theme=tokyonight" />
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikmahmud&theme=tokyonight" />
-  </p>
+ <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ashikmahmud&theme=tokyonight" />
+</p>
+
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikmahmud&layout=compact&theme=tokyonight&exclude_repo=old-repo1,old-repo2" />
 </p>
