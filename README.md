@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co/LhXvJZwc/Black-Modern-Personal-Linked-In-Banner-1.png" />
+  <img src="https://i.ibb.co/LhXvJZw/Black-Modern-Personal-Linked-In-Banner-1.png" />
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm Ashik Mahmud</h1>
 <h3 align="center">💻 Full Stack Web Developer | MERN Stack | UI/UX Focused</h3>
