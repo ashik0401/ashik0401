@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Ashik Mahmud</h1>
-<h3 align="center">💻Front-End Web Developer | MERN Stack | UI/UX Focused</h3>
+<h3 align="center">💻MERN Stack Web Developer  </h3>
 
 ---
 
