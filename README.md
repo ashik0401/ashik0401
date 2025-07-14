@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/QdxwHG0r/Black-Modern-Personal-Linked-In-Banner-1.png" />
+  <img src="https://i.ibb.co/KjRLJQC3/Black-Elegant-Modern-Personal-Linked-In-Banner.png" />
 </p>
 
 
