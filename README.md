@@ -56,11 +56,13 @@ I'm a passionate full stack web developer focused on building clean and scalable
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-You can call me at: [+8801302264907](tel:+8801302264907)
+
 
 </p>
 
-
+<p align="center">
+  📞 +880 1234 567890
+</p>
 
 
 ---
