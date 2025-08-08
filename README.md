@@ -56,9 +56,10 @@ I'm a passionate full stack web developer focused on building clean and scalable
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-<a href="tel:+8801234567890">
-    <img src="https://img.shields.io/badge/Phone-+8801234567890?style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
+<a href="tel:+8801234567890" title="Call me on mobile">
+  <img src="https://img.shields.io/badge/Phone-008080?style=for-the-badge&logo=phone&logoColor=white" />
+</a>
+
 
 </p>
 
