@@ -45,8 +45,6 @@ I'm a passionate full stack web developer focused on building clean and scalable
 
 ---
 
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -58,10 +56,10 @@ I'm a passionate full stack web developer focused on building clean and scalable
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+You can call me at: [+8801302264907](tel:+8801302264907)
+
 </p>
 
-
-You can call me at: [ +1-234-567-8901 ](tel:+12345678901)
 
 
 
