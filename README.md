@@ -48,15 +48,16 @@ I'm a passionate full stack web developer focused on building clean and scalable
 ### 🌐 Connect with Me
 
 <p align="center">
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashikmahmud0825@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashikmahmud0825@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
   <a href="https://www.linkedin.com/in/ashik-mahmud21/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a href="https://wa.me/8801234567890" target="_blank" rel="noopener noreferrer" title="Chat on WhatsApp" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+
+  <a href="https://wa.me/8801302264907" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
