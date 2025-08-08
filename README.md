@@ -55,17 +55,15 @@ I'm a passionate full stack web developer focused on building clean and scalable
   <a href="https://www.linkedin.com/in/ashik-mahmud21/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-<a href="tel:+8801234567890" title="Call me on mobile">
-  <img src="https://img.shields.io/badge/Phone-008080?style=for-the-badge&logo=phone&logoColor=white" />
-</a>
-
-
 </p>
 
 <p align="center">
-  📞 +880 1234 567890
+  📞 +880 1234 567890 &nbsp;
+  <a href="https://wa.me/8801234567890" target="_blank" rel="noopener noreferrer" title="Chat on WhatsApp" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
+
 
 
 ---
