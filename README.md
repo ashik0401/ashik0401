@@ -50,11 +50,11 @@ I'm a passionate full stack web developer focused on building clean and scalable
 ### 🌐 Connect with Me
 
 <p align="center">
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashik04am@gmail.com" target="_blank" rel="noopener noreferrer">
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashikmahmud0825@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-  <a href="https://www.linkedin.com/in/yourlinkedin">
+  <a href="https://www.linkedin.com/in/ashik-mahmud21/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ashik0401">
