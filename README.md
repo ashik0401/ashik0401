@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate full stack web developer focused on building clean and scalable applications using the MERN stack. I love crafting modern UI with Tailwind CSS and building efficient backends with Node.js and Express.
+I'm a passionate MERN Stack Web Developer focused on building clean and scalable applications using the MERN stack. I love crafting modern UI with Tailwind CSS and building efficient backends with Node.js and Express.
 
 ---
 
