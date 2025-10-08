@@ -25,12 +25,11 @@ I'm a passionate MERN Stack Web Developer focused on building clean and scalable
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,nextjs,nodejs,express,mongodb,tailwind,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,nextjs,nodejs,express,mongodb,firebase,tailwind,github,vscode" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Query-%23FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" />
   <img src="https://img.shields.io/badge/SweetAlert2-FF5E5E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Hot%20Toast-FFC107?style=for-the-badge&logo=react&logoColor=black" />
