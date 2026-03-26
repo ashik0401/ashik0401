@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/T3dbMRtD/Black-Elegant-Modern-Personal-Linked-In-Banner.png" />
+  <img src="https://i.postimg.cc/gkCX6qG8/Black-Elegant-Modern-Personal-Linked-In-Banner.png" />
 </p>
 
 
@@ -61,7 +61,7 @@ I'm a passionate MERN Stack Web Developer focused on building clean and scalable
 </p>
 
 <p align="center">
-  📞 +8801302264907
+  📞 +8801887030966
 </p>
 
 
