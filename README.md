@@ -16,9 +16,9 @@ Full-Stack Developer specializing in the MERN stack and Next.js. I design clean,
 
 ### 🚀 Currently Working On
 
-- Building full-stack apps with smooth UX and solid backend logic  
-- Experimenting with advanced web features and performance strategies  
-- Publishing reusable UI components for modern design systems
+- Developing full-stack web applications with seamless UX and scalable backend architecture
+- Exploring advanced performance optimization techniques and modern web capabilities
+- Building and publishing reusable UI component libraries for scalable design systems
 
 ---
 
