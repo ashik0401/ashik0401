@@ -4,13 +4,13 @@
 
 
 <h1 align="center">Hi there 👋, I'm Ashik Mahmud</h1>
-<h3 align="center">💻 MERN Stack Web Developer  </h3>
+<h3 align="center">💻 MERN Stack Developer | Building Clean & Scalable Web Applications</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a passionate MERN Stack Web Developer focused on building clean and scalable applications using the MERN stack. I love crafting modern UI with Tailwind CSS and building efficient backends with Node.js and Express.
+Full-Stack Developer specializing in the MERN stack and Next.js. I design clean, responsive UIs with React, Tailwind CSS, and Next.js, and engineer efficient, scalable backends using Node.js and Express — turning complex problems into simple, elegant solutions.
 
 ---
 
@@ -55,7 +55,7 @@ I'm a passionate MERN Stack Web Developer focused on building clean and scalable
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://wa.me/8801302264907" target="_blank" rel="noopener noreferrer">
+  <a href="https://wa.me/8801887030966" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
