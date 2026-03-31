@@ -70,11 +70,11 @@ Full-Stack Developer specializing in the MERN stack and Next.js. I design clean,
 
 ### 📊 GitHub Stats
 
+<p align="">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=AshikMahmud22&show_icons=true&theme=tokyonight" />
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AshikMahmud22&show_icons=true&theme=tokyonight&cache_id=1" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshikMahmud22&layout=compact&theme=tokyonight&cache_id=1" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshikMahmud22&theme=tokyonight" />
+</p>
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshikMahmud22&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AshikMahmud22&theme=tokyonight&cache_id=1" />
-</p>
